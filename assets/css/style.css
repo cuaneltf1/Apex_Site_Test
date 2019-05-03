@@ -1,0 +1,122 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: courier;
+    color: white;
+}
+
+header{
+    background-image: url(../img/apex_legends_desktop_wallpaperedit.png);
+    background-position: bottom center;
+    background-size: cover;
+    height: 150px;
+}
+#apex{
+    height: 120px;
+    position: relative;
+    left: 10px;
+    top: 17px;
+}
+
+nav{
+    position: absolute;
+    right: 5vh;
+    top: 3vh;
+}
+
+nav a{
+    text-decoration: none;
+}
+
+nav li{
+    display: inline-block;
+    font-size: 2.5vh;
+    padding-left: 3vh;
+}
+
+#about{
+background-image:url(../img/991594.jpg);
+    background-attachment: relative;
+    background-position: center center;
+    background-size: cover;
+    height: 1046px;
+}
+
+.about{
+    width: 50%;
+}
+
+#youtube{
+    background-image: url(../img/bg.png);
+    background-attachment: relative;
+    background-position: center center;
+    background-size: cover;
+    height: 1060px;
+}
+
+#legends{
+    background-image: url(../img/bg2.jpg);
+    background-attachment:inherit;
+    background-position:center center;
+    background-size:cover;
+    height:1100px;
+}
+
+.legends{
+    width: 80%;
+    padding: 0px;
+    margin: 0 auto;
+}
+
+.left{
+    width: 50%;
+    float: left;
+    margin: 318px 0px 0px 0px;
+    text-align: center;
+}
+
+#portrait{
+    width: 500px;
+    border-radius: 360px;
+}
+
+.right{
+    width: 50%;
+    float: left;
+    margin: 200px 0px 0px 0px;
+}
+
+#reviews{
+    height: 900px;
+    width: 100%;
+}
+
+#download{
+    background-image:url(../img/992724.png);
+    background-attachment:inherit;
+    background-position: top center;
+    background-size:cover;
+    height:1000px;
+    overflow: hidden;
+}
+
+#footer{
+    background-image:url(../img/apex_legends_desktop_wallpaperedit.png
+    );
+    background-attachment: inherit;
+    background-position: top center;
+    background-size:cover;
+    height:400px;
+}
+
+.left2{
+    width: 50%;
+    float: left;
+    margin: 0px auto;
+}
+
+.right2{
+    width: 50%;
+    float: left;
+    margin: 0px auto;
+}
